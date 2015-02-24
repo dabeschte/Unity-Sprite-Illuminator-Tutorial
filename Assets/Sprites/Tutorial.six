@@ -1,0 +1,11 @@
+<spriteilluminator_project>
+    <preset_collections/>
+    <filename>Tutorial.six</filename>
+    <bodies/>
+    <publish_directory></publish_directory>
+    <publish_normalmap_postfix>_n</publish_normalmap_postfix>
+    <light_height>32</light_height>
+    <light_brightness>100</light_brightness>
+    <light_color>#ffffff</light_color>
+    <ambient_light_color>#808080</ambient_light_color>
+</spriteilluminator_project>
