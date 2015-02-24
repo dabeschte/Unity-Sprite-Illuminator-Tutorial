@@ -5,8 +5,8 @@ Dynamic Lighting with SpriteIlluminator
 
 A normal mapped sprite consists of 2 files:
 
-![Normal Mapped Sprite: Sprite's Texture](Sprites/character-with-si-logo.png)
-![Normal Mapped Sprite: Sprite's Normal Map](Sprites/character-with-si-logo_n.png)
+![Normal Mapped Sprite: Sprite's Texture](Assets/Sprites/character-with-si-logo.png)
+![Normal Mapped Sprite: Sprite's Normal Map](Assets/Sprites/character-with-si-logo_n.png)
 
 The texture itself is used for the sprite's color. 
 
@@ -31,16 +31,16 @@ The normal maps were generated using SpriteIlluminator - our [Normal Map Generat
 #### Add Lights
 * With dark ambient light the texture looks like this:
 
-![Normal Mapped Sprite: Only Ambient Light](Sprites/without lights.png)
+![Normal Mapped Sprite: Only Ambient Light](Assets/Demo Pictures/without lights.png)
 
 * Select "Edit - Render Settings" and choose a color as ambient light which is used as base color for the texture.
 
-![Normal Mapped Sprite: Only Ambient Light](Sprites/with blue ambient light.png)
+![Normal Mapped Sprite: Only Ambient Light](Assets/Demo Pictures/with blue ambient light.png)
 
 * Add point light to simulate the light of a single source (eg. lamp or fire)
 
-![Normal Mapped Sprite: With Point Light](Sprites/with green point light.png)
+![Normal Mapped Sprite: With Point Light](Assets/Demo Pictures/with green point light.png)
 
 * Add directional light to simulate for example the light of the sun which is coming from the same direction in the same intensity independend of your relative position and distance.
 
-![Normal Mapped Sprite: With Point Light and directional light](Sprites/with green point light and red directional light.png)
+![Normal Mapped Sprite: With Point Light and directional light](Assets/Demo Pictures/with green point light and red directional light.png)
