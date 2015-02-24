@@ -5,8 +5,8 @@ Dynamic Lighting with SpriteIlluminator
 
 A normal mapped sprite consists of 2 files:
 
-![Normal Mapped Sprite: Sprite's Texture](Assets/Sprites/character-with-si-logo.png)
-![Normal Mapped Sprite: Sprite's Normal Map](Assets/Sprites/character-with-si-logo_n.png)
+![Normal Mapped Sprite: Sprite's Texture](Assets/Demo Pictures/character-with-si-logo.png)
+![Normal Mapped Sprite: Sprite's Normal Map](Assets/Demo Pictures/character-with-si-logo_n.png)
 
 The texture itself is used for the sprite's color. 
 
